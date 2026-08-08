@@ -1,0 +1,13 @@
+Fund Name: HDFC Mid Cap Fund Direct Growth
+Expense ratio 0.75%
+Exit load: Exit load of 1% if redeemed within 1 year.
+Category: Equity - Mid Cap
+AUM: 100858.3136 Cr
+Minimum SIP Investment: 100
+Lock-in period: {'years': None, 'months': None, 'days': None}
+Risk: None
+Benchmark: NIFTY Midcap 150 Total Return Index
+Fund Manager: Chirag Setalvad
+Launch Date: 01-Jan-2013
+Stamp Duty: 0.005% (from July 1st, 2020)
+Description: The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.

@@ -1,0 +1,13 @@
+Fund Name: HDFC Silver ETF FoF Direct Growth
+Expense ratio 0.22%
+Exit load: Exit load of 1%, if redeemed within 15 days.
+Category: Commodities - Silver
+AUM: 4326.5606 Cr
+Minimum SIP Investment: 100
+Lock-in period: {'years': None, 'months': None, 'days': None}
+Risk: None
+Benchmark: Domestic Price of Silver
+Fund Manager: Krishan Kumar Daga
+Launch Date: 28-Oct-2022
+Stamp Duty: 0.005% (from July 1st, 2020)
+Description: The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).
