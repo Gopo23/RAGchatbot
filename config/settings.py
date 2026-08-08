@@ -27,7 +27,7 @@ CHUNK_OVERLAP = 200
 
 # Models
 EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-LLM_MODEL_NAME = "llama-3.1-8b-instant" # Switched to a smaller model with higher rate limits
+LLM_MODEL_NAME = "llama-3.3-70b-versatile"
 
 # API Keys
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
