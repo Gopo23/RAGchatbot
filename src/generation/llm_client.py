@@ -48,4 +48,4 @@ def generate_response(prompt: str) -> str:
         return response.content
     except Exception as e:
         logging.error(f"Error generating response from LLM (Rate limits or API failure): {e}")
-        return "An error occurred while generating the response. The system might be under heavy load or rate-limited. Please try again later."
+        return f"An error occurred while generating the response: {str(e)}\n\nThe system might be under heavy load or rate-limited. Please try again later."
