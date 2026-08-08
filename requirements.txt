@@ -9,4 +9,5 @@ streamlit
 python-dotenv
 tenacity
 langchain-groq
+pysqlite3-binary
 
