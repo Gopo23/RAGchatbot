@@ -442,6 +442,7 @@ Max Output        ~150 tokens     (3 sentences + citation + footer)
 | **Refusal false positives** | Overly strict classifier may refuse valid factual questions | Tune keyword list; add query rephrasing fallback |
 | **5-scheme scope** | Only covers the 5 selected HDFC schemes | Clearly state scope in welcome message and disclaimer |
 | **No multi-turn memory** | Stateless Q&A; no conversation history | Each query is independent; suitable for FAQ use case |
+| **Groq API Rate Limits** | Free tier `llama-3.3-70b-versatile` has strict limits (30 RPM, 1K RPD, 12K TPM, 100K TPD) | Implement exponential backoff and gracefully handle errors |
 
 ---
 

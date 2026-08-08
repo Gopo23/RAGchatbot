@@ -52,3 +52,4 @@ Since `.env` is (correctly) ignored by git, Streamlit will not have your Groq AP
     sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
     ```
 - **Memory Limits**: Streamlit Cloud provides ~1GB of RAM. Since we are using lightweight BGE embeddings locally and offloading the heavy 70B parameter LLM computation to Groq's external API, the application's memory footprint will remain well within safe limits.
+- **Groq API Rate Limits**: The `llama-3.3-70b-versatile` model has strict rate limits (30 requests per minute, 1K requests per day, 12K tokens per minute, 100K tokens per day). Ensure your application handles these limits gracefully using retry logic or exponential backoff.

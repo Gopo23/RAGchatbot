@@ -45,7 +45,7 @@ This document outlines the phase-wise implementation plan for building the RAG-b
    - Format retrieved chunks into a single context string along with their source URLs for citation.
 3. **LLM Generation (`src/generation/`):**
    - **`prompt_builder.py`**: Construct the strict system prompt (max 3 sentences, mandatory citation).
-   - **`llm_client.py`**: Connect to Groq's API (using `llama-3.3-70b-versatile`). Implement rate limit handling (exponential backoff) using `tenacity` to respect Groq's strict limits (30 RPM, 12K TPM).
+   - **`llm_client.py`**: Connect to Groq's API (using `llama-3.3-70b-versatile`). Implement rate limit handling (exponential backoff) using `tenacity` to respect Groq's strict limits (30 RPM, 1K RPD, 12K TPM, 100K TPD).
    - **`response_formatter.py`**: Ensure the final output string correctly appends the source link and last updated footer.
 
 ## Phase 4: User Interface (Streamlit)

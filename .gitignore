@@ -1,32 +1,22 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
+*.py[cod]
+*$py.class
+
+# Virtual environments
 .venv/
-env.bak/
-venv.bak/
+venv/
+env/
 
-# Environment Variables
+# Environment variables
 .env
-.env.*
-!.env.example
+.env.local
 
-# Streamlit
-.streamlit/
-
-# Jupyter Notebooks
-.ipynb_checkpoints
-
-# IDE / OS
-.idea/
+# IDEs and Editors
 .vscode/
+.idea/
 *.swp
+
+# OS generated files
 .DS_Store
 Thumbs.db
-
-# Note: 'data/' and 'embeddings/' are intentionally NOT ignored, 
-# as the GitHub Actions workflow automatically updates and commits them.
