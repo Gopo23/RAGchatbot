@@ -5,6 +5,9 @@ on:
     - cron: '0 5 * * *' # Run daily at 10:30 AM IST (05:00 UTC)
   workflow_dispatch: # Allow manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   ingest:
     runs-on: ubuntu-latest
@@ -43,5 +46,5 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "chore: automated daily data ingestion update"
-          git push
+          git push origin HEAD:main
         fi
