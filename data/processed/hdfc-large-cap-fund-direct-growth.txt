@@ -2,7 +2,7 @@ Fund Name: HDFC Large Cap Fund Direct Growth
 Expense ratio 1.02%
 Exit load: Exit load of 1% if redeemed within 1 year
 Category: Equity - Large Cap
-AUM: 39023.6868 Cr
+AUM: 40197.8895 Cr
 Minimum SIP Investment: 100
 Lock-in period: {'years': None, 'months': None, 'days': None}
 Risk: None

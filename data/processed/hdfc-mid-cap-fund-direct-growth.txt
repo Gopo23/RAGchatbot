@@ -2,7 +2,7 @@ Fund Name: HDFC Mid Cap Fund Direct Growth
 Expense ratio 0.75%
 Exit load: Exit load of 1% if redeemed within 1 year.
 Category: Equity - Mid Cap
-AUM: 100858.3136 Cr
+AUM: 105142.6943 Cr
 Minimum SIP Investment: 100
 Lock-in period: {'years': None, 'months': None, 'days': None}
 Risk: None

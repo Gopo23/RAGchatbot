@@ -2,7 +2,7 @@ Fund Name: HDFC Gold ETF Fund of Fund Direct Plan Growth
 Expense ratio 0.2%
 Exit load: Exit load of 1%, if redeemed within 15 days.
 Category: Commodities - Gold
-AUM: 11019.4542 Cr
+AUM: 11197.0455 Cr
 Minimum SIP Investment: 100
 Lock-in period: {'years': None, 'months': None, 'days': None}
 Risk: None
