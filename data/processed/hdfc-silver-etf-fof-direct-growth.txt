@@ -1,8 +1,8 @@
 Fund Name: HDFC Silver ETF FoF Direct Growth
-Expense ratio 0.22%
+Expense ratio 0.21%
 Exit load: Exit load of 1%, if redeemed within 15 days.
 Category: Commodities - Silver
-AUM: 4282.385 Cr
+AUM: 4698.5047 Cr
 Minimum SIP Investment: 100
 Lock-in period: {'years': None, 'months': None, 'days': None}
 Risk: None
