@@ -3,7 +3,7 @@ Expense ratio 0.2%
 Exit load: Exit load of 1%, if redeemed within 15 days.
 Category: Commodities - Gold
 AUM: 12013.27 Cr
-Minimum SIP Investment: 100
+Minimum SIP Investment: 0
 Lock-in period: {'years': None, 'months': None, 'days': None}
 Risk: None
 Benchmark: Domestic Price of Gold
